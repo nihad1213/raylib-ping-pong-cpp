@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/pingpong.dir/link.d CMakeFiles/pingpong.dir/src/main.cpp.o CMakeFiles/pingpong.dir/src/Game.cpp.o CMakeFiles/pingpong.dir/src/Ball.cpp.o CMakeFiles/pingpong.dir/src/Paddle.cpp.o -o pingpong  /usr/lib/x86_64-linux-gnu/libraylib.so.6.0.0 -lm

@@ -33,8 +33,3 @@ if(MSVC)
 else()
     target_compile_options(pingpong PRIVATE -Wall -Wextra)
 endif()
-
-# Make assets/ available next to the executable (for future sounds, fonts, ...)
-add_custom_command(TARGET pingpong POST_BUILD
-    COMMAND ${CMAKE_COMMAND} -E copy_directory
-            ${CMAKE_SOURCE_DIR}/assets $<TARGET_FILE_DIR:pingpong>/assets)

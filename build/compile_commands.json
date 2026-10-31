@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/include -std=gnu++17 -Wall -Wextra -o CMakeFiles/pingpong.dir/src/main.cpp.o -c /media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/main.cpp",
+  "file": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/main.cpp",
+  "output": "CMakeFiles/pingpong.dir/src/main.cpp.o"
+},
+{
+  "directory": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/include -std=gnu++17 -Wall -Wextra -o CMakeFiles/pingpong.dir/src/Game.cpp.o -c /media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/Game.cpp",
+  "file": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/Game.cpp",
+  "output": "CMakeFiles/pingpong.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/include -std=gnu++17 -Wall -Wextra -o CMakeFiles/pingpong.dir/src/Ball.cpp.o -c /media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/Ball.cpp",
+  "file": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/Ball.cpp",
+  "output": "CMakeFiles/pingpong.dir/src/Ball.cpp.o"
+},
+{
+  "directory": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/include -std=gnu++17 -Wall -Wextra -o CMakeFiles/pingpong.dir/src/Paddle.cpp.o -c /media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/Paddle.cpp",
+  "file": "/media/nihad/HDD234/CPP-Learning/raylib-ping-pong-cpp/src/Paddle.cpp",
+  "output": "CMakeFiles/pingpong.dir/src/Paddle.cpp.o"
+}
+]
